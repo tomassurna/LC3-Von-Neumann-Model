@@ -1,8 +1,8 @@
 # LC3-Von-Neumann-Model
 
-### Author: Tomas S
-### Date: 4/19/2019
-### Project: LC3 Final README
+#### Author: Tomas S
+#### Date: 4/19/2019
+#### Project: LC3 Final README
 
 The purpose of the circuit is to mimic the Von Neumann Model using logisim. More specifically the instructions which are implemented are ADD, ADD(Immediate), AND, AND(Immediate), NOT, JMP, LD, LDR, ST, STR. Some instructions were left out for time's sake. In all the major components of the circuit are the Control Unit, ALU, Registers, Memory, and Main. 
 
