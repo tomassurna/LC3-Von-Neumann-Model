@@ -11,7 +11,7 @@ A summary of the circuit is the control unit takes in an instruction from the me
 - All instructions have been tested and noted as working.
 - File names ending with _2 due to a halfway reset in the engineer's making of the circuit. 
 
-### INSTRUCTION TESTS:
+### Instruction Test:
 
 * ADD - Tested, Works using 200f (LD), 220e (LD), 1001 (ADD), 3005 (ST)
 * ADD IMMU5 - Tested, Works using 200f (LD), 103f (ADD), 3005 (ST)
